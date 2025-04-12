@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="cc-fcb918-coleman-portfolio.netlify.app/">Portfolio</a> -
+  <a href="https://cc-fcb918-coleman-portfolio.netlify.app/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/andrewcoleman2/">Linkedin</a> -
   <a href="https://codesandbox.io/u/andrew112">Codesandbox</a> 
 </p>
