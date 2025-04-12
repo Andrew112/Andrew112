@@ -1,11 +1,10 @@
-<h1 align="center"> Olá (Hi) I'm Andrew C</h1>
+<h1 align="center"> (Hi) I'm Andrew C</h1>
 
 
 <p align="center">
-  <a href="https://jelsonjay.com">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/jelsonj/">Linkedin</a> -
-  <a href="https://instagram.com/jelsonjay">Instagram</a> -
-  <a href="https://codesandbox.io/u/jelsonjay">Codesandbox</a> 
+  <a href="cc-fcb918-coleman-portfolio.netlify.app/">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/andrewcoleman2/">Linkedin</a> -
+  <a href="https://codesandbox.io/u/andrew112">Codesandbox</a> 
 </p>
 
 -----------------------------------------------------------
