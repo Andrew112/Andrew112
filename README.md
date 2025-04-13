@@ -25,22 +25,22 @@ I’m Andrew C Front-end Web Developer, I’m very passionate about everything r
 -------------------------------------------------------------
 
 ## Languages & Frameworks
-<a><img align="left" alt="HTML5" width="30px" src="https://github.com/andrew112/svg-icons/blob/main/html5.png" /><a/>
-<a><img align="left" alt="CSS3" width="30px" src="https://github.com/andrew112/svg-icons/blob/main/css.png" /><a/>
-<a><img align="left" alt="Sass" width="30px" src="https://github.com/andrew112/svg-icons/blob/main/sass.png" /><a/>
-<a><img align="left" alt="Styled-components" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/styled-components.png" /><a/>
-<a><img align="left" alt="Json" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/json.png" /><a/>
+<a><img align="left" alt="HTML5" width="30px" src="https://github.com/Andrew112/svg-icons/svg-icons/blob/main/svg-icons/html5.png" /><a/>
+<a><img align="left" alt="CSS3" width="30px" src="https://github.com/Andrew112/svg-icons/svg-icons/blob/main/svg-icons/css.png" /><a/>
+<a><img align="left" alt="Sass" width="30px" src="https://github.com/Adrew112/svg-icons/svg-icons/blob/main/sass.png" /><a/>
+<a><img align="left" alt="Styled-components" width="30px" src="https://github.com/Andrew112/svg-icons/svg-icons/blob/main/svg-icons/styled-components.png" /><a/>
+<a><img align="left" alt="Json" width="30px" src="https://github.com/Andrew112/svg-icons/svg-icons/blob/main/svg-icons/json.png" /><a/>
 
-<a><img align="left" alt="JavaScript" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/javascript.png" /><a/>
-<a><img align="left" alt="Typescript" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/typescript.png" /><a/>
-<a><img align="left" alt="React" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/react.png" /><a/>
-<a><img align="left" alt="Next" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/next.png" /><a/>
-<a><img align="left" alt="Vite" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/vite.png" /><a/>
-<a><img align="left" alt="Qgraphql" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/graphql.png" /><a/>
-<a><img align="left" alt="Express" width="50px" src="https://github.com/jelsonjay/svg-icons/blob/master/express.png" /><a/>
-<a><img align="left" alt="Node.js" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/node.png" /><a/>
-<a><img align="left" alt="MongoDB" width="40px" src="https://github.com/jelsonjay/svg-icons/blob/master/mongo.png" /><a/>
-<a><img align="left" alt="MYSQL" width="40px" src="https://github.com/jelsonjay/svg-icons/blob/master/mysql.png" /><a/>
+<a><img align="left" alt="JavaScript" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/javascript.png" /><a/>
+<a><img align="left" alt="Typescript" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/typescript.png" /><a/>
+<a><img align="left" alt="React" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/react.png" /><a/>
+<a><img align="left" alt="Next" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/next.png" /><a/>
+<a><img align="left" alt="Vite" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/vite.png" /><a/>
+<a><img align="left" alt="Qgraphql" width="30px" src="https://github.com/Andrew112/svg-icons/blob/master/graphql.png" /><a/>
+<a><img align="left" alt="Express" width="50px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/css.png" /><a/>
+<a><img align="left" alt="Node.js" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/node.png" /><a/>
+<a><img align="left" alt="MongoDB" width="40px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/mongo.png" /><a/>
+<a><img align="left" alt="MYSQL" width="40px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/mysql.png" /><a/>
 
 <br />
 
