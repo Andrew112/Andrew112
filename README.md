@@ -25,9 +25,9 @@ I’m Andrew C Front-end Web Developer, I’m very passionate about everything r
 -------------------------------------------------------------
 
 ## Languages & Frameworks
-<a><img align="left" alt="HTML5" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/html5.png" /><a/>
-<a><img align="left" alt="CSS3" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/css.png" /><a/>
-<a><img align="left" alt="Sass" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/sass.png" /><a/>
+<a><img align="left" alt="HTML5" width="30px" src="https://github.com/andrew112/svg-icons/blob/main/html5.png" /><a/>
+<a><img align="left" alt="CSS3" width="30px" src="https://github.com/andrew112/svg-icons/blob/main/css.png" /><a/>
+<a><img align="left" alt="Sass" width="30px" src="https://github.com/andrew112/svg-icons/blob/main/sass.png" /><a/>
 <a><img align="left" alt="Styled-components" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/styled-components.png" /><a/>
 <a><img align="left" alt="Json" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/json.png" /><a/>
 
