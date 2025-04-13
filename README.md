@@ -48,6 +48,8 @@ I’m Andrew C Front-end Web Developer, I’m very passionate about everything r
 
 <a><img style="margin: 10px"  alt="Figma" src="https://github.com/andrew112/svg-icons/blob/main/svg-icons/figma.png" height="30" /><a/>
 
+<br/>
+
 ## Headless CMS
 
 <a><img align="left" alt="Sanity" width="30px" src="https://avatars1.githubusercontent.com/u/17177659?s=200&v=4/topics/sanity/sanity.png" /><a/>
