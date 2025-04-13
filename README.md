@@ -65,7 +65,7 @@ I’m Andrew C Front-end Web Developer, I’m very passionate about everything r
 <br />
 
 ## Tools
-<a><img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/andrew112/svg-icons/blob/main/svg-iconsvscode.png" /><a/>
+<a><img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/vscode.png" /><a/>
 <a><img align="left" alt="Atom" width="30px" src="https://github.com/andrew112/svg-icons/blob/main/svg-icons/pycharm.png" /><a/>
 
 
