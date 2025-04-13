@@ -47,7 +47,7 @@ I’m Andrew C Front-end Web Developer, I’m very passionate about everything r
 
 ## Design
 
-<a><img style="margin: 10px"  alt="Figma" src="https://github.com/andrew112/svg-icons/blob/main/svg-icons/figma.png" height="30" />
+<img style="margin: 10px"  alt="Figma" src="https://github.com/andrew112/svg-icons/blob/main/svg-icons/figma.png" height="30" />
 
 ## Headless CMS
 
