@@ -29,14 +29,14 @@ I’m Andrew C Front-end Web Developer, I’m very passionate about everything r
 <a><img align="left" alt="CSS3" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/css.png" /><a/>
 <a><img align="left" alt="Sass" width="30px" src="https://github.com/Adrew112/svg-icons/blob/main/svg-icons/sass.png" /><a/>
 <a><img align="left" alt="Styled-components" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/styled-components.png" /><a/>
-<a><img align="left" alt="Json" width="30px" src="https://github.com/Andrew112/svg-icons/svg-icons/blob/main/svg-icons/json.png" /><a/>
+<a><img align="left" alt="Json" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/json.png" /><a/>
 
 <a><img align="left" alt="JavaScript" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/javascript.png" /><a/>
 <a><img align="left" alt="Typescript" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/typescript.png" /><a/>
 <a><img align="left" alt="React" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/react.png" /><a/>
 <a><img align="left" alt="Next" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/next.png" /><a/>
 <a><img align="left" alt="Vite" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/vite.png" /><a/>
-<a><img align="left" alt="Qgraphql" width="30px" src="https://github.com/Andrew112/svg-icons/blob/master/graphql.png" /><a/>
+<a><img align="left" alt="Qgraphql" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/graphql.png" /><a/>
 <a><img align="left" alt="Express" width="50px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/css.png" /><a/>
 <a><img align="left" alt="Node.js" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/node.png" /><a/>
 <a><img align="left" alt="MongoDB" width="40px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/mongo.png" /><a/>
@@ -46,35 +46,35 @@ I’m Andrew C Front-end Web Developer, I’m very passionate about everything r
 
 ## Design
 
-<img style="margin: 10px"  alt="Figma" src="https://github.com/jelsonjay/svg-icons/blob/master/figma.png" height="30" />  
+<img style="margin: 10px"  alt="Figma" src="https://github.com/andrew112y/svg-icons/blob/main/svg-icons/figma.png" height="30" />  
 
 ## Headless CMS
 
 <a><img align="left" alt="Sanity" width="30px" src="https://avatars1.githubusercontent.com/u/17177659?s=200&v=4/topics/sanity/sanity.png" /><a/>
   
-<a><img align="left" alt="Strapi" width="70px" src="https://github.com/jelsonjay/svg-icons/blob/master/strapi1.png" /><a/>
+<a><img align="left" alt="Strapi" width="70px" src="https://github.com/jelsonjay/svg-icons/blob/main/svg-icons/strapi1.png" /><a/>
   
 <br /><br />
 ## Package Manager
 
-<a><img align="left" alt="Npm" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/npm.png" /><a/>
-<a><img align="left" alt="Yarn" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/yarn.png" /><a/>
+<a><img align="left" alt="Npm" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/main/svg-icons/npm.png" /><a/>
+<a><img align="left" alt="Yarn" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/main/svg-icons/yarn.png" /><a/>
 
 
 <br />
 <br />
 
 ## Tools
-<a><img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/vscode.png" /><a/>
-<a><img align="left" alt="Atom" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/pycharm.png" /><a/>
+<a><img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/main/svg-iconsvscode.png" /><a/>
+<a><img align="left" alt="Atom" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/main/svg-icons/pycharm.png" /><a/>
 
 
 <br />
 <br />
 
 ## Version Control
-<a><img align="left" alt="Git" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/git-1.png" /><a/>
-<a><img align="left" alt="GitHub" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/github.png" /><a/>
+<a><img align="left" alt="Git" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/main/svg-icons/git-1.png" /><a/>
+<a><img align="left" alt="GitHub" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/main/svg-icons/github.png" /><a/>
  <br />
  <br />
   
