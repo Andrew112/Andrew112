@@ -46,7 +46,7 @@ I’m Andrew C Front-end Web Developer, I’m very passionate about everything r
 
 ## Design
 
-<img style="margin: 10px"  alt="Figma" src="https://github.com/andrew112y/svg-icons/blob/main/svg-icons/figma.png" height="30" />  
+<img style="margin: 10px"  alt="Figma" src="https://github.com/andrew112/svg-icons/blob/main/svg-icons/figma.png" height="30" />  
 
 ## Headless CMS
 
@@ -57,24 +57,24 @@ I’m Andrew C Front-end Web Developer, I’m very passionate about everything r
 <br /><br />
 ## Package Manager
 
-<a><img align="left" alt="Npm" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/main/svg-icons/npm.png" /><a/>
-<a><img align="left" alt="Yarn" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/main/svg-icons/yarn.png" /><a/>
+<a><img align="left" alt="Npm" width="30px" src="https://github.com/andrew112/svg-icons/blob/main/svg-icons/npm.png" /><a/>
+<a><img align="left" alt="Yarn" width="30px" src="https://github.com/andrew112/svg-icons/blob/main/svg-icons/yarn.png" /><a/>
 
 
 <br />
 <br />
 
 ## Tools
-<a><img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/main/svg-iconsvscode.png" /><a/>
-<a><img align="left" alt="Atom" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/main/svg-icons/pycharm.png" /><a/>
+<a><img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/andrew112/svg-icons/blob/main/svg-iconsvscode.png" /><a/>
+<a><img align="left" alt="Atom" width="30px" src="https://github.com/andrew112/svg-icons/blob/main/svg-icons/pycharm.png" /><a/>
 
 
 <br />
 <br />
 
 ## Version Control
-<a><img align="left" alt="Git" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/main/svg-icons/git-1.png" /><a/>
-<a><img align="left" alt="GitHub" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/main/svg-icons/github.png" /><a/>
+<a><img align="left" alt="Git" width="30px" src="https://github.com/andrew112/svg-icons/blob/main/svg-icons/git-1.png" /><a/>
+<a><img align="left" alt="GitHub" width="30px" src="https://github.com/andrew112/svg-icons/blob/main/svg-icons/github.png" /><a/>
  <br />
  <br />
   
