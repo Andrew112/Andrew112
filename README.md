@@ -38,7 +38,6 @@ I’m Andrew C Front-end Web Developer, I’m very passionate about everything r
 <a><img align="left" alt="Next" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/next.png" /><a/>
 <a><img align="left" alt="Vite" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/vite.png" /><a/>
 <a><img align="left" alt="Qgraphql" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/graphql.png" /><a/>
-<a><img align="left" alt="Express" width="50px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/css.png" /><a/>
 <a><img align="left" alt="Node.js" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/nodejs.png" /><a/>
 <a><img align="left" alt="MongoDB" width="40px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/mongo.png" /><a/>
 <a><img align="left" alt="MYSQL" width="40px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/mysql.png" /><a/>
