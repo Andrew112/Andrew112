@@ -25,10 +25,10 @@ I’m Andrew C Front-end Web Developer, I’m very passionate about everything r
 -------------------------------------------------------------
 
 ## Languages & Frameworks
-<a><img align="left" alt="HTML5" width="30px" src="https://github.com/Andrew112/svg-icons/svg-icons/blob/main/svg-icons/html5.png" /><a/>
-<a><img align="left" alt="CSS3" width="30px" src="https://github.com/Andrew112/svg-icons/svg-icons/blob/main/svg-icons/css.png" /><a/>
+<a><img align="left" alt="HTML5" width="30px" src="https://github.com/Andrew112/svg-icons/svg-icons/blob/main/html5.png" /><a/>
+<a><img align="left" alt="CSS3" width="30px" src="https://github.com/Andrew112/svg-icons/svg-icons/blob/main/css.png" /><a/>
 <a><img align="left" alt="Sass" width="30px" src="https://github.com/Adrew112/svg-icons/svg-icons/blob/main/sass.png" /><a/>
-<a><img align="left" alt="Styled-components" width="30px" src="https://github.com/Andrew112/svg-icons/svg-icons/blob/main/svg-icons/styled-components.png" /><a/>
+<a><img align="left" alt="Styled-components" width="30px" src="https://github.com/Andrew112/svg-icons/svg-icons/blob/main/styled-components.png" /><a/>
 <a><img align="left" alt="Json" width="30px" src="https://github.com/Andrew112/svg-icons/svg-icons/blob/main/svg-icons/json.png" /><a/>
 
 <a><img align="left" alt="JavaScript" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/javascript.png" /><a/>
