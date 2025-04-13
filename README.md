@@ -38,7 +38,7 @@ I’m Andrew C Front-end Web Developer, I’m very passionate about everything r
 <a><img align="left" alt="Vite" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/vite.png" /><a/>
 <a><img align="left" alt="Qgraphql" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/graphql.png" /><a/>
 <a><img align="left" alt="Express" width="50px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/css.png" /><a/>
-<a><img align="left" alt="Node.js" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/node.png" /><a/>
+<a><img align="left" alt="Node.js" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/nodejs.png" /><a/>
 <a><img align="left" alt="MongoDB" width="40px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/mongo.png" /><a/>
 <a><img align="left" alt="MYSQL" width="40px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/mysql.png" /><a/>
 
@@ -52,7 +52,7 @@ I’m Andrew C Front-end Web Developer, I’m very passionate about everything r
 
 <a><img align="left" alt="Sanity" width="30px" src="https://avatars1.githubusercontent.com/u/17177659?s=200&v=4/topics/sanity/sanity.png" /><a/>
   
-<a><img align="left" alt="Strapi" width="70px" src="https://github.com/jelsonjay/svg-icons/blob/main/svg-icons/strapi1.png" /><a/>
+<a><img align="left" alt="Strapi" width="70px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/strapi.png" /><a/>
   
 <br /><br />
 ## Package Manager
