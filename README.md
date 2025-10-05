@@ -13,7 +13,7 @@
 I’m Andrew C Front-End Web Developer, I’m very passionate about everything related to web development, I spend much of my spare time learning and obsessing about the latest web technologies. 
 
 
-## Front-end Developer
+## Front-End Developer
 
 - I’m currently working on different types of projects
 - I’m currently learning: TypeScript & REST API
