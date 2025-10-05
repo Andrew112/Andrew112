@@ -10,7 +10,7 @@
 -----------------------------------------------------------
 
 
-I’m Andrew C Front-end Web Developer, I’m very passionate about everything related to web development, I spend much of my spare time learning and obsessing about the latest web technologies. 
+I’m Andrew C Front-End Web Developer, I’m very passionate about everything related to web development, I spend much of my spare time learning and obsessing about the latest web technologies. 
 
 
 ## Front-end Developer
