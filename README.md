@@ -44,7 +44,6 @@ I’m Andrew C Front-End Web Developer, I’m very passionate about everything r
 
 <br />
 
-## Design
 
 <img style="margin: 10px"  alt="Figma" src="https://github.com/jelsonjay/svg-icons/blob/master/figma.png" height="30" />  
 
