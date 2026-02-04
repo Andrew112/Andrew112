@@ -26,6 +26,7 @@ I’m Andrew C Front-End Web Developer, I’m very passionate about everything r
 
 
 ## Languages & Frameworks
+<a><img align="left" alt="AMPLIFY" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/aws-amplify.png" /><a/>
 <a><img align="left" alt="HTML5" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/html5.png" /><a/>
 <a><img align="left" alt="CSS3" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/css.png" /><a/>
 <a><img align="left" alt="Sass" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/sass.png" /><a/>
