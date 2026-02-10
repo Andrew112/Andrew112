@@ -84,9 +84,7 @@ I’m Andrew C Front-End Web Developer, I’m very passionate about everything r
 <a href="https://github.com/andrew112/andrew112">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew112&hide=ruby,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/andrew112/andrew112">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew112&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Coleman's GitHub Stats" />
-</a>
+
 
  
   
