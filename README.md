@@ -37,7 +37,6 @@ I’m Andrew C Front-End Web Developer, I’m very passionate about everything r
 <a><img align="left" alt="Typescript" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/typescript.png" /><a/>
 <a><img align="left" alt="React" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/react.png" /><a/>
 <a><img align="left" alt="Next" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/next.png" /><a/>
-<a><img align="left" alt="supabase" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/supabase512.png" /><a/>
 <a><img align="left" alt="Vite" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/vite.png" /><a/>
 <a><img align="left" alt="Qgraphql" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/graphql.png" /><a/>
 <a><img align="left" alt="Node.js" width="30px" src="https://github.com/Andrew112/svg-icons/blob/main/svg-icons/nodejs.png" /><a/>
